@@ -1,3 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 ![](https://github.com/giridharmb/Images/blob/master/LXF100.tut_bootfail.diagram.png) "Boot Up Sequence"
+![](https://github.com/giridharmb/Images/blob/master/Nova-VM-Provisioning.png) "NOVA VM Provisioning"
+
+
