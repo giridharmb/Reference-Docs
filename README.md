@@ -1,4 +1,6 @@
 ![]() ""
+![](https://github.com/giridharmb/Images/blob/master/Random/libvirt-manage-hypervisors.jpg) "HV-Libvirt"
+![](https://github.com/giridharmb/Images/blob/master/Random/LIBVIRT.jpg) "Libvirt"
 ![](https://github.com/giridharmb/Images/blob/master/LXF100.tut_bootfail.diagram.png) "Boot Up Sequence"
 ![](https://github.com/giridharmb/Images/blob/master/Nova-VM-Provisioning.png) "NOVA VM Provisioning"
 ![](https://github.com/giridharmb/Images/blob/master/chris_net3.png) "Linux Bridge"
