@@ -1,3 +1,4 @@
+![]() ""
 ![](https://github.com/giridharmb/Images/blob/master/LXF100.tut_bootfail.diagram.png) "Boot Up Sequence"
 ![](https://github.com/giridharmb/Images/blob/master/Nova-VM-Provisioning.png) "NOVA VM Provisioning"
 ![](https://github.com/giridharmb/Images/blob/master/chris_net3.png) "Linux Bridge"
@@ -7,7 +8,6 @@
 ![](https://github.com/giridharmb/Images/blob/master/osog_1202.png) "GRE vs VLAN"
 ![](https://github.com/giridharmb/Images/blob/master/process.png) "Process vs Threads"
 ![](https://github.com/giridharmb/Images/blob/master/rhce_linux_boot_diagram.png) "Linux Boot RHEL"
-![]() ""
 ![](https://github.com/giridharmb/Images/blob/master/OpenStack/quantum.gif) "Quantum"
 ![](https://github.com/giridharmb/Images/blob/master/under-the-hood-scenario-1-ovs-network.png) "OVS Network"
 ![](https://github.com/giridharmb/Images/blob/master/under-the-hood-scenario-1-ovs-compute.png) "OVS Compute Networking"
